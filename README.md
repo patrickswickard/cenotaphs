@@ -1,7 +1,7 @@
 # cenotaphs
 tex files for Cenotaphs of Ocean City
 
-![ET IN ARCADIA EGO](et_in_arcadia_ego.jpg "ET IN ARCADIA EGO")
+[![ET IN ARCADIA EGO](et_in_arcadia_ego.jpg "ET IN ARCADIA EGO")](https://en.wikipedia.org/wiki/Et_in_Arcadia_ego)
 
 This directory contains files for a special issue of my zine run of *City That Reads: Baltimore Signs and Markings*.  This includes a tex file I created with code in my https://github.com/patrickswickard/latex_photo_album_layout repository.  Photos can be found at https://www.flickr.com/photos/citythatreads/albums/72157654715805235
 
